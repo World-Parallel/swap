@@ -43,7 +43,7 @@
     "ethers": "^5.5.1",
     "framer-motion": "^4.0.0",
     "ga-gtag": "^1.1.1",
-    "graphql": "^16.5.0",
+    "graphql": "^16.8.1",
     "graphql-tag": "^2.12.6",
     "jsbi": "^4.0.0",
     "multicodec": "^3.2.1",
