@@ -39,7 +39,7 @@
     "apollo-boost": "^0.4.9",
     "bignumber.js": "^9.0.1",
     "cids": "^1.1.9",
-    "crypto-js": "^4.1.1",
+    "crypto-js": "^4.2.0",
     "ethers": "^5.5.1",
     "framer-motion": "^4.0.0",
     "ga-gtag": "^1.1.1",
